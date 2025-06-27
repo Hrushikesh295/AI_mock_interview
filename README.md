@@ -1,5 +1,3 @@
-Got it — I’ve reviewed the project structure. I’ll now draft a clean, structured `README.md` for your **AI Mock Interview** project based on your prompt and the project files you uploaded. Here’s the full content:
-
 ---
 
 # AI Mock Interview
